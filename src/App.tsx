@@ -25,9 +25,7 @@ const App: React.FC = () => {
           </div>
           <h1>React Boilerplate</h1>
           <div className="flex items-center justify-center">
-            <h1 className="text-3xl font-bold underline">
-              Hello, TailwindCSS!
-            </h1>
+            <h1 className="text-3xl font-bold underline">Hello, TailwindCSS</h1>
           </div>
 
           <div>
