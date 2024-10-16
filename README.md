@@ -51,7 +51,7 @@ export default tseslint.config({
 
 ## Quick start
 
-1.  Make sure that you have Node.js v18.18=9.1 and npm v10.2.4 or above installed.
+1.  Make sure that you have Node.js v18.19.1 and npm v10.2.4 or above installed.
 2.  Clone this repo using `git clone --depth=1 https://github.com/nabeelahmadkhan/react-boilerplate.git <YOUR_PROJECT_NAME>`
 3.  Move to the appropriate directory: `cd <YOUR_PROJECT_NAME>`.<br />
 4.  Run `npm install` in order to install dependencies and clean the git repo.<br />
