@@ -57,3 +57,4 @@ export default tseslint.config({
 4.  Run `npm install` in order to install dependencies and clean the git repo.<br />
     _At this point you can run `npm start` to see the example app at `http://localhost:5173`._
 5.  Run `npm run clean` to delete the example app.
+6.
